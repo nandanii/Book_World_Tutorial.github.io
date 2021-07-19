@@ -1142,7 +1142,7 @@ html[xmlns] .slides {
 	width: 30px;
 	height: 30px;
 	line-height:20px;
-	font-size:20px;
+	font-size:25px;
 	border-radius:0;
 	opacity:1;
 	background:#7EC13F;
@@ -1283,14 +1283,14 @@ html[xmlns] .slides {
 }
 
 .core-features .list li {
-    font-size: 15px;
+    font-size: 25px;
     margin: 0px 0px 12px;
     font-weight: 600;
     line-height: 20px;
     position: relative;
     padding: 0px 0px 0px 25px;
     list-style: outside none none;
-	color: #6E6D6D;
+	color: black;
 }
 
  .core-features .list li::after {
@@ -2564,6 +2564,7 @@ blockquote em {
 }
 
 .comment-list ol {
+	color:black;
 	list-style: none;
 	margin-left: 0px;
 	padding: 0;
